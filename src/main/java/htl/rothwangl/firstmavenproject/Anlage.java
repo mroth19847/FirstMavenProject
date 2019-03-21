@@ -16,7 +16,7 @@ public class Anlage {
     }
     
     public void updateBuchwert(int jahreGenutzt){
-        this.buchwert
+        this.buchwert = jahresAfa() * jahreGenutzt;
     }
     
     public double getBuchwert(){
