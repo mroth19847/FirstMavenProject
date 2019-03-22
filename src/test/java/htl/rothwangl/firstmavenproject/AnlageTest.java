@@ -5,6 +5,8 @@
  */
 package htl.rothwangl.firstmavenproject;
 
+import static junit.framework.Assert.assertEquals;
+
 /**
  *
  * @author ROTHWANGLMaximilian
